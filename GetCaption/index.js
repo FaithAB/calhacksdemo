@@ -28,7 +28,7 @@ const postContent = function(url, context) {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
-            'Ocp-Apim-Subscription-Key': process.env.API_KEY
+            'Ocp-Apim-Subscription-Key': aa2d4849c6184d53b262beb3b3c980b5
         }
     };
 
